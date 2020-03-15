@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gogomca/RHCS-OAD/issues"
   },
-  "homepage": "https://github.com/gogomca/RHCS-OAD#readme"
+  "homepage": "https://github.com/gogomca/RHCS-OAD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
