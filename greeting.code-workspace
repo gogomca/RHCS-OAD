@@ -6,6 +6,9 @@
 		},
 		{
 			"path": "express-greeting"
+		},
+		{
+			"path": "express-generator-greeting"
 		}
 	]
 }
