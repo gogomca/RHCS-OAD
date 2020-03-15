@@ -1,0 +1,23 @@
+{
+  "name": "express-greeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogomca/RHCS-OAD.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "gogomca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogomca/RHCS-OAD/issues"
+  },
+  "homepage": "https://github.com/gogomca/RHCS-OAD#readme"
+}
