@@ -3,6 +3,9 @@
 		{
 			"name": "greeting",
 			"path": "."
+		},
+		{
+			"path": "express-greeting"
 		}
 	]
 }
